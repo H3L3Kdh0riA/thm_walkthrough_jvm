@@ -1,7 +1,7 @@
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-public class AdvancedStringObfuscation {
+public class ExtremeObf {
 
 	public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException,
 			IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException {
@@ -20,7 +20,8 @@ public class AdvancedStringObfuscation {
 		String password = (String) zero_c.invoke(zero, ps_var1);
 
 		System.out.println("Password "+password);
+
 	}
 
 }
- 
+
