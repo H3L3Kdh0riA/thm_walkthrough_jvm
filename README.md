@@ -1,1 +1,1 @@
-# thm_walktrough_vm
+# thm_walkthrough_jvm
