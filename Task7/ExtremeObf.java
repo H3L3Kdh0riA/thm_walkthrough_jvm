@@ -19,7 +19,7 @@ public class ExtremeObf {
 
 		String password = (String) zero_c.invoke(zero, ps_var1);
 
-		System.out.println("Password "+password);
+		System.out.println("Password " + password);
 
 	}
 
